@@ -32,9 +32,9 @@ The dataset consists of 2357 images of malignant and benign oncological diseases
    * Vascular lesion
 
 ## Conclusions
-  Model overfits as the there is a huge gap between training and validation accuracy is the first model without augmented data and with class rebalance 
-  After image augmentation the overfit is resolved as the gap between training and validation loss decreased, but the accuracy is still low 
-  Model performs much better after class imbalance treatment 
+  - Model overfits as the there is a huge gap between training and validation accuracy is the first model without augmented data and with class rebalance 
+  - After image augmentation the overfit is resolved as the gap between training and validation loss decreased, but the accuracy is still low 
+  - Model performs much better after class imbalance treatment 
 
 
 ## Technologies Used
@@ -46,7 +46,7 @@ The dataset consists of 2357 images of malignant and benign oncological diseases
 
 ## Acknowledgements
 
-This project was inspired by AI ML C65 batch.
+This project was inspired by AI ML C65 batch upgrad assignment.
 
 
 ## Contact
